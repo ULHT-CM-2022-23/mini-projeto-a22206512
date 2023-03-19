@@ -6,15 +6,15 @@ António Ventura, 22206512
 
 ## Screnshots dos ecrãs
 
-![Screenshot 1](/Users/antonioventura/StudioProjects/mini_projeto/images/dashboard.png)
+![Screenshot 1](images/dashboard.png)
 
-![Screenshot 2](/Users/antonioventura/StudioProjects/mini_projeto/images/lista.png)
+![Screenshot 2](images/lista.png)
 
-![Screenshot 3](/Users/antonioventura/StudioProjects/mini_projeto/images/registo.png)
+![Screenshot 3](images/registo.png)
 
-![Screenshot 4](/Users/antonioventura/StudioProjects/mini_projeto/images/detalhes.png)
+![Screenshot 4](images/detalhes.png)
 
-![Screenshot 5](/Users/antonioventura/StudioProjects/mini_projeto/images/dealer.png)
+![Screenshot 5](images/dealer.png)
 
 ## Criar avaliação
 
@@ -42,7 +42,7 @@ António Ventura, 22206512
     AlertDialog com seguinte mensagem: "Só podem ser editados registos de avaliações futuras." caso
     a avaliação seja anterior à data atual.
 
-![Screenshot 8](/Users/antonioventura/StudioProjects/mini_projeto/images/editado.png)
+![Screenshot 8](images/editado.png)
 
     A edição é feita da mesma forma que a criação, com a diferença que os campos já estão 
     preenchidos com a informação da avaliação que se pretende editar e um ElevatedButton para 
@@ -51,7 +51,7 @@ António Ventura, 22206512
     No caso de sucesso, é apresentada a seguinte mensagem: 
     "O registo de avaliação selecionado foi editado com sucesso."
 
-![Screenshot 9](/Users/antonioventura/StudioProjects/mini_projeto/images/editadoAceite.png)
+![Screenshot 9](images/editadoAceite.png)
 
 ## Consultar o detalhe de uma avaliação
 
@@ -65,12 +65,12 @@ António Ventura, 22206512
     para a direita no qual aparece a seguinte mensagem de erro caso seja uma avaliação anterior
     à data atual: "Só podem ser eliminados registos de avaliações futuras.".
 
-![Screenshot 6](/Users/antonioventura/StudioProjects/mini_projeto/images/swipe.png)
+![Screenshot 6](images/swipe.png)
     
     Caso seja uma avaliação futura, é apresentada a seguinte mensagem de sucesso: "O registo de
     avaliação selecionado foi eliminado com sucesso." e a avaliação é eliminada da lista.
 
-![Screenshot 7](/Users/antonioventura/StudioProjects/mini_projeto/images/swipeEliminado.png)
+![Screenshot 7](images/swipeEliminado.png)
     
     Também existe um elevatedButton na direita que permite eliminar a avaliação na página
     de edição.
